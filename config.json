@@ -19,7 +19,7 @@
   "uploadMethod": "bundlr",
   "retainAuthority": true,
   "isMutable": true,
-  "symbol": "",
+  "symbol": "CRAB",
   "sellerFeeBasisPoints": 20,
   "awsConfig": null,
   "nftStorageAuthToken": null,
